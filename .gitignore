@@ -1,2 +1,3 @@
 #gitignore
 DatasaurusDozen.tsv
+**/.DS_Store
